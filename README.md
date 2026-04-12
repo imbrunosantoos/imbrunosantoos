@@ -1,16 +1,29 @@
-# 💫 About Me:
-Hello World👋<br><br>I'm Bruno Santos, a Software Engineering student at UMinho.<br><br>My academic core is based on C, Haskell and Java, but I am highly interested in full-stack web development using Next.js, TailwindCSS, and Phoenix.<br><br> I currently collaborate with CeSIUM and I am actively looking for a Summer Internship to gain real-world experience.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
+My name is Bruno Santos
+=====================================================================================================================================
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__brunoribeiroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunorssantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunoribeirosouzasantos@gmail.com) 
+Software Engineering Student at University of Minho
+---------------------------------------------------
 
-# 💻 Tech Stack:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imbrunosantoos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imbrunosantoos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imbrunosantoos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My academic core is based on C, Haskell and Java, but I am highly interested in full-stack web development using Next.js, TailwindCSS, and Phoenix.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imbrunosantoos&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+I currently collaborate with CeSIUM and I am actively looking for a Summer Internship to gain real-world experience.
+
+* 🌍  I'm based in Braga, Portugal
+* ✉️  You can contact me at [brunoribeirosouzasantos@gmail.com](mailto:brunoribeirosouzasantos@gmail.com)
+* 🧠  I'm currently learning Core computer science fundamentals (C, Haskell, Python) at UMinho, and modern full-stack web development (Next.js, TailwindCSS, Phoenix) at CeSIUM.
+* 👥  I'm looking to collaborate on open-source projects, student-led initiatives at CeSIUM, and full-stack web applications.
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/imbrunosantoos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/brunorssantos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/imbrunosantoos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imbrunosantoos&stroke=ef4444&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>

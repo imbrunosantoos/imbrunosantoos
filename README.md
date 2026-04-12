@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World👋<br><br>I'm Bruno Santos, a Software Engineering student at UMinho.<br><br>My academic core is based on C, Haskell and Java, but I am highly interested in full-stack web development using Next.js, TailwindCSS, and Phoenix.<br><br>. I currently collaborate with CeSIUM and I am actively looking for a Summer Internship to gain real-world experience.
+Hello World👋<br><br>I'm Bruno Santos, a Software Engineering student at UMinho.<br><br>My academic core is based on C, Haskell and Java, but I am highly interested in full-stack web development using Next.js, TailwindCSS, and Phoenix.<br><br> I currently collaborate with CeSIUM and I am actively looking for a Summer Internship to gain real-world experience.
 
 
 ## 🌐 Socials:

@@ -12,7 +12,7 @@ I currently collaborate with CeSIUM and I am actively looking for a Summer Inter
 
 * 🌍  I'm based in Braga, Portugal
 * ✉️  You can contact me at [brunoribeirosouzasantos@gmail.com](mailto:brunoribeirosouzasantos@gmail.com)
-* 🧠  I'm currently learning Core computer science fundamentals (C, Haskell, Python) at UMinho, and modern full-stack web development (Next.js, TailwindCSS, Phoenix) at CeSIUM.
+* 🧠  I'm currently learning core computer science fundamentals (C, Haskell, Python) at UMinho, and modern full-stack web development (Next.js, TailwindCSS, Phoenix) at CeSIUM.
 * 👥  I'm looking to collaborate on open-source projects, student-led initiatives at CeSIUM, and full-stack web applications.
 
 ### Skills

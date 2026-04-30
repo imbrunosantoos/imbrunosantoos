@@ -15,34 +15,23 @@ I currently collaborate with CeSIUM and I am actively looking for a Summer Inter
 * 🧠  I'm currently learning core computer science fundamentals (C, Haskell, Python) at UMinho, and modern full-stack web development (Next.js, TailwindCSS, Phoenix) at CeSIUM.
 * 👥  I'm looking to collaborate on open-source projects, student-led initiatives at CeSIUM, and full-stack web applications.
 
-###  My Tech Stack:
+### My Tech Stack:
 
 #### Languages
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="40" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/1500645/200569109-77291a18-d99c-482a-9e66-6086259c8d6a.png" alt="Elixir" title="Elixir" width="40" height="40" /></a>
-</p>
+
+[![Languages](https://skillicons.dev/icons?i=c,python,js,elixir)](https://skillicons.dev)
 
 #### Frameworks & Web
-<p align="left">
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" /></a>
-  <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/images/phoenix.png" alt="Phoenix" title="Phoenix" width="40" height="40" /></a>
-</p>
+
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 
 #### Tools & OS
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40" /></a>
-  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" /></a>
-</p>
+
+[![Tools](https://skillicons.dev/icons?i=vscode,apple,git)](https://skillicons.dev)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/imbrunosantoos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/brunorssantos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-
+<p align="left"><a href="https://www.github.com/imbrunosantoos" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a><a href="https://www.linkedin.com/in/brunorssantos" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></picture></a></p>
 
 <a href="http://www.github.com/imbrunosantoos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imbrunosantoos&stroke=ef4444&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
